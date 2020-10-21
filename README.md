@@ -18,8 +18,3 @@ Por lo anterior es muy importante asociar a cada origen su correspondiente oyent
 [![Oyente Eventos](https://i.ibb.co/wL6TdTK/poe.png "Oyente Eventos")](https://i.ibb.co/wL6TdTK/poe.png "Oyente Eventos")
 
 ------------
-
-## Manejo de eventos generados por componentes gráficos
-Clases necesarias para un ejemplo simple de manejo de eventos de Bot&oacute;n
-[![Clases](https://i.ibb.co/jJFQN73/poe-02.png "Clases")](https://i.ibb.co/jJFQN73/poe-02.png "Clases")
-
