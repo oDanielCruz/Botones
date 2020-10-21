@@ -15,3 +15,11 @@ Al efectuar una acci&oacute;n sobre el objeto (dar click, dar enter, etc), se cr
 Debido a que en una interfaz gr&aacute;fica pueden coexistir varios componentes gr&aacute;ficos que pueden disparar eventos, tambi&eacute;n puede existir varios oyentes con funciones bien delimitadas.
 
 Por lo anterior es muy importante asociar a cada origen su correspondiente oyente. Esta operaci&oacute;n se conoce como "registro del oyente al origen". Es claro que un oyente puede ser registrado a uno o varios componentes.
+[![Oyente Eventos](https://i.ibb.co/wL6TdTK/poe.png "Oyente Eventos")](https://i.ibb.co/wL6TdTK/poe.png "Oyente Eventos")
+
+------------
+
+## Manejo de eventos generados por componentes gráficos
+Clases necesarias para un ejemplo simple de manejo de eventos de Bot&oacute;n
+[![Clases](https://i.ibb.co/jJFQN73/poe-02.png "Clases")](https://i.ibb.co/jJFQN73/poe-02.png "Clases")
+
